@@ -1,5 +1,4 @@
-# .github
-## 🚀 Janban Enterprise Ltd
+# 🚀 Janban Enterprise Ltd
 ### Technology Department | Professional Web Development & Digital Solutions
 
 ---
