@@ -2,7 +2,7 @@
 ### Technology Department | Professional Web Development & Digital Solutions
 
 [![Website](https://img.shields.io/badge/Website-Online-brightgreen?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://loanlytix.com)
-[![Projects](https://img.shields.io/badge/Live_Projects-4+-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janban-zm)
+[![Projects](https://img.shields.io/badge/Live_Projects-4+-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janban-zm)
 [![Status](https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge&logo=check-circle&logoColor=white)](mailto:support@loanlytix.com)
 [![Location](https://img.shields.io/badge/Location-Zambia-red?style=for-the-badge&logo=map-pin&logoColor=white)](https://maps.google.com/zambia)
 
@@ -76,12 +76,9 @@ Welcome to **Janban Enterprise Ltd**, a professional technology company speciali
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend Development**
@@ -111,13 +108,13 @@ Welcome to **Janban Enterprise Ltd**, a professional technology company speciali
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janban-enterprise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janban-zm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janban-enterprise&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janban-zm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janban-enterprise&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Janban-zm&theme=radical&hide_border=true&background=0D1117)
 
-![Profile Views](https://komarev.com/ghpvc/?username=janban-enterprise&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Janban-zm&color=brightgreen&style=for-the-badge)
 
 </div>
 
