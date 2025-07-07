@@ -1,9 +1,9 @@
 # 🚀 Janban Enterprise Ltd
 ### Technology Department | Professional Web Development & Digital Solutions
 
-[![Website](https://img.shields.io/badge/Website-Online-brightgreen?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://janbanenterprise.com)
-[![Projects](https://img.shields.io/badge/Live_Projects-4+-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janban-enterprise)
-[![Status](https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge&logo=check-circle&logoColor=white)](mailto:contact@janbanenterprise.com)
+[![Website](https://img.shields.io/badge/Website-Online-brightgreen?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://loanlytix.com)
+[![Projects](https://img.shields.io/badge/Live_Projects-4+-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janban-zm)
+[![Status](https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge&logo=check-circle&logoColor=white)](mailto:support@loanlytix.com)
 [![Location](https://img.shields.io/badge/Location-Zambia-red?style=for-the-badge&logo=map-pin&logoColor=white)](https://maps.google.com/zambia)
 
 ---
