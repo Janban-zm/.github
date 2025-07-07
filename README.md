@@ -108,13 +108,13 @@ Welcome to **Janban Enterprise Ltd**, a professional technology company speciali
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janban-zm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chilanzi-thirt33n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janban-zm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chilanzi-thirt33n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Janban-zm&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chilanzi-thirt33n&theme=radical&hide_border=true&background=0D1117)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Janban-zm&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Chilanzi-thirt33n&color=brightgreen&style=for-the-badge)
 
 </div>
 
